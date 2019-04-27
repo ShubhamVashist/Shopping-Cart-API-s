@@ -1,0 +1,1 @@
+INSERT INTO AVAILABLE_PRODUCTS(product_id, description,quantity) VALUES(1, "Iphone", 2);
